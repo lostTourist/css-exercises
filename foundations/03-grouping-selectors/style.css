@@ -1,0 +1,15 @@
+/* style.css */
+
+button {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 28px;
+}
+
+.monochrome {
+    color:white;
+    background-color: black;
+}
+.colorful {
+    color: black;
+    background-color: yellow;
+}
